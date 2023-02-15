@@ -1,0 +1,36 @@
+.sign-up-form {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .form-control {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  .form-control label {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-control input {
+    font-size: 1rem;
+    padding: 0.5rem;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+  }
+  
+  .sign-up-button {
+    font-size: 1rem;
+
+  }
